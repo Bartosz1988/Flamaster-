@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1502299907 source:c:\users\bartosz\desktop\przysz³y_programista\c++\flamaster+\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+
